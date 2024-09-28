@@ -6,7 +6,7 @@ DEMO地址：[https://api.98.do/linuxdo/oauth2/](https://api.98.do/linuxdo/oauth
 **如何部署？**
 教程开始
 1. 进入[https://connect.linux.do/dash/sso](https://connect.linux.do/dash/sso) 选择***申请新接入**
-2. 填写对应资料![cd68f4dbc3afe4c034e646daf8e0bbb|690x461](upload://fBWCNPpiKuoyElmO45gkSgB4lOs.png)
+2. 填写对应资料[![123.jpg](https://img.923329.xyz/api/cfile/AgACAgQAAyEGAASRzsK6AAMNZvVQwcw1nFhPC9NNUYf678MI72MAAlvPMRsGFahTJpv1oGvTLywBAAMCAAN3AAM2BA)](https://linux.do/uploads/default/original/3X/6/d/6d6ab08eed6cd0f493b412c597cbb2d405a3953c.png)
 3. 下载SDK压缩包 [oauth2.tar.gz|attachment](upload://1m6EQFbhw3mFZ7UEWKNmasv5ksK.gz) (2.4 KB)
 4. 在[https://connect.linux.do/dash/sso](https://connect.linux.do/dash/sso)获取`ClientId`和`ClientSecret`
 ![399428d9bb818068536f4767bfb94c8|603x151](upload://9K1RKxTdJuqGbX7Gwc3VsAxOPzi.png)
